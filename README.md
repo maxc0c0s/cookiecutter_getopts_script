@@ -1,0 +1,1 @@
+# cookiecutter_getopts_script
