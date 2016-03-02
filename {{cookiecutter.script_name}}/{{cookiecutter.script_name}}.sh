@@ -26,5 +26,9 @@ while getopts $OPTSTRING opt; do
 		\?)
 			usage
 			;;
+		:)
+      			echo "Option -$OPTARG requires an argument." >&2
+      			exit 1
+      			;;
 	esac
 done
