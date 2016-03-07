@@ -1,7 +1,7 @@
 {
     "script_name": "script_name",
     "usage_desc": "usage: $0 [options]",
-    "description": "Descripbe what the script does.",
+    "description": "Describe what the script does.",
     "option": "o",
     "option_desc": "Option: -{{cookiecutter.option}}: does something"
 }
